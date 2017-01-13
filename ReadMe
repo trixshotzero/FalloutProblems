@@ -1,0 +1,18 @@
+My problem is that when i load a save i made with mods,
+it takes the old prewar map textures/something and pushes some of it though the real map
+and when i disable all my mods its fine
+but if i load up a save created before mods were installed (with mods active) its fine and nothing is wrong
+-----------------------------------------------------------------------------------------------------------------
+So let me walk you though this a bit better:
+
+Step 1: create new save
+Step 2: play like normal untill reaching the point were you leave the vault
+Step 3: exit vault
+Step 4: let it load, then open your pipboy
+Step 5: relise its invisable (i alread fix the pipboy)
+Step 6: Walk out the gate where you came though in the beginning (or any path you walk is fine)
+Step 7: look at the ground, see that? its the old world loaded though the new one
+Step 8: your done (i didnt want to leave this on a odd number)
+--------------------------------------------------------------------------------------------------------------------
+Okay and remeber that if i load a save created before loading mods/someone elses save then i dont have this problem
+Thank you, you can find the logs and such at the other text files on github :)
